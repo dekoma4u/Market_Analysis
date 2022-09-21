@@ -1,11 +1,11 @@
-Country,Quantity,UnitPrice
-Saudi Arabia,12,0.42
-Saudi Arabia,12,1.65
-Saudi Arabia,12,1.65
-Saudi Arabia,12,1.65
-Saudi Arabia,12,1.45
-Saudi Arabia,6,2.95
-Saudi Arabia,6,2.95
-Saudi Arabia,6,2.95
-Saudi Arabia,2,5.49
-Saudi Arabia,-5,2.95
+Country,StockCode,Description,Quantity,UnitPrice
+Saudi Arabia,22915,ASSORTED BOTTLE TOP  MAGNETS ,12,0.42
+Saudi Arabia,22553,PLASTERS IN TIN SKULLS,12,1.65
+Saudi Arabia,22555,PLASTERS IN TIN STRONGMAN,12,1.65
+Saudi Arabia,22556,PLASTERS IN TIN CIRCUS PARADE ,12,1.65
+Saudi Arabia,22969,HOMEMADE JAM SCENTED CANDLES,12,1.45
+Saudi Arabia,22363,GLASS JAR MARMALADE ,6,2.95
+Saudi Arabia,22362,GLASS JAR PEACOCK BATH SALTS,6,2.95
+Saudi Arabia,22361,GLASS JAR DAISY FRESH COTTON WOOL,6,2.95
+Saudi Arabia,20781,GOLD EAR MUFF HEADPHONES,2,5.49
+Saudi Arabia,22361,GLASS JAR DAISY FRESH COTTON WOOL,-5,2.95
